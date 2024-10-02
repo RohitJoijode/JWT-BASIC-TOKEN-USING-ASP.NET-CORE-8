@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|d:\\!!demo project!!\\jwt_basic_token\\jwt_basic_token_dot_net_core_8\\jwt_basic_token_dot_net_core_8\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|solutionrelative:jwt_basic_token_dot_net_core_8\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|d:\\!!demo project!!\\jwt_basic_token\\jwt_basic_token_dot_net_core_8\\jwt_basic_token_dot_net_core_8\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|solutionrelative:jwt_basic_token_dot_net_core_8\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|d:\\!!demo project!!\\jwt_basic_token\\jwt_basic_token_dot_net_core_8\\jwt_basic_token_dot_net_core_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|solutionrelative:jwt_basic_token_dot_net_core_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|d:\\!!demo project!!\\jwt_basic_token\\jwt_basic_token_dot_net_core_8\\jwt_basic_token_dot_net_core_8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|solutionrelative:jwt_basic_token_dot_net_core_8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|d:\\!!demo project!!\\jwt_basic_token\\jwt_basic_token_dot_net_core_8\\jwt_basic_token_dot_net_core_8\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|solutionrelative:jwt_basic_token_dot_net_core_8\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|d:\\!!demo project!!\\jwt_basic_token\\jwt_basic_token_dot_net_core_8\\jwt_basic_token_dot_net_core_8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43733ED3-BD3A-4168-8D83-D9628B73BED3}|JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj|solutionrelative:jwt_basic_token_dot_net_core_8\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T00:19:04.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:16:00.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:58:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Program.cs",
+              "RelativeDocumentMoniker": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Program.cs",
+              "ToolTip": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Program.cs",
+              "RelativeToolTip": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:44:38.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jwtsettings.cs",
+              "DocumentMoniker": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Jwtsettings.cs",
+              "RelativeDocumentMoniker": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Jwtsettings.cs",
+              "ToolTip": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Jwtsettings.cs",
+              "RelativeToolTip": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\Jwtsettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:43:08.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\appsettings.json",
+              "ToolTip": "D:\\!!DEMO PROJECT!!\\JWT_BASIC_TOKEN\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\JWT_BASIC_TOKEN_DOT_NET_CORE_8\\appsettings.json",
+              "RelativeToolTip": "JWT_BASIC_TOKEN_DOT_NET_CORE_8\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T23:39:16.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

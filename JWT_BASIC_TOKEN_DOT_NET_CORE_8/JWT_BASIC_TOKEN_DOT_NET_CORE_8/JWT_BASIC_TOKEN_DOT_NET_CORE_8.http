@@ -1,0 +1,6 @@
+@JWT_BASIC_TOKEN_DOT_NET_CORE_8_HostAddress = http://localhost:5113
+
+GET {{JWT_BASIC_TOKEN_DOT_NET_CORE_8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT_BASIC_TOKEN_DOT_NET_CORE_8", "JWT_BASIC_TOKEN_DOT_NET_CORE_8\JWT_BASIC_TOKEN_DOT_NET_CORE_8.csproj", "{43733ED3-BD3A-4168-8D83-D9628B73BED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43733ED3-BD3A-4168-8D83-D9628B73BED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43733ED3-BD3A-4168-8D83-D9628B73BED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43733ED3-BD3A-4168-8D83-D9628B73BED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43733ED3-BD3A-4168-8D83-D9628B73BED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {322D62B3-159F-4645-9168-C62BBEA18AD8}
+	EndGlobalSection
+EndGlobal

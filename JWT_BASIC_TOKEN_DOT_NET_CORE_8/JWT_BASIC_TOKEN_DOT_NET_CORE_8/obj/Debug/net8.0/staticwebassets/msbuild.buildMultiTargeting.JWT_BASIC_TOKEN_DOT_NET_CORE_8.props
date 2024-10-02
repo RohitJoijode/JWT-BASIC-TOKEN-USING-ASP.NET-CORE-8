@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JWT_BASIC_TOKEN_DOT_NET_CORE_8.props" />
+</Project>
